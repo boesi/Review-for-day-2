@@ -17,3 +17,11 @@
 
 * git checkout <branch_name>
 * switch to different branch
+
+
+## Questions:
+
+* What is the purpose of a 3 way merge? How does it differentiante from fast forward merge?
+* How do i remove a local branch?
+* What are assignees for pull requests?
+* When and how is a pull request automatically created?
